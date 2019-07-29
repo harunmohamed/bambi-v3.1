@@ -1,6 +1,6 @@
-Welcome to Bambi V3
+Welcome to Bambi V3.1
 
-This version of Bambi introduces the backend infrastructure to Bambi V2. On this version of Bambi, you can do the following:
+This version of Bambi introduces Blueprints. On this version of Bambi, you can do the following:
 
 1. Sign Up and Log in
 2. Create, Read, Update, Like and Delete Posts
